@@ -1,0 +1,4 @@
+  NetCraker.zip |  NetCraker1.zip 
+----------------|--------------
+- deleted 3.txt |                
+                | + newFile 12.txt
